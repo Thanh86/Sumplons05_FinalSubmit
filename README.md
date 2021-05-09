@@ -11,7 +11,7 @@ List Of Member:
  ======================================= 
 Documentations :https://github.com/Thanh86/Sumplons05_FinalSubmit/new/main?readme=1
 ======================================= 
-Published website : https://github.com/Thanh86/Sumplons05_FinalSubmit.git
+Published website : https://thanh86.github.io/Sumplons05_FinalSubmit/
 
 
 Thank you for visit our website.
