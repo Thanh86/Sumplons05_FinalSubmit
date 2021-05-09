@@ -9,7 +9,7 @@ List Of Member:
       2.NGUYEN DUY THANH (Student1295179)
       3.TANG TRUONG THAI (Student1295176)
  ======================================= 
-Documentations :https://github.com/Thanh86/Sumplons05_FinalSubmit/new/main?readme=1
+Documentations :https://github.com/Thanh86/Sumplons05_FinalSubmit/tree/main/Documentations
 ======================================= 
 Published website : https://thanh86.github.io/Sumplons05_FinalSubmit/
 
